@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/smart-alphabet/static/css/main.fc64a63b.chunk.css",
+    "main.js": "/smart-alphabet/static/js/main.a30bdd89.chunk.js",
+    "main.js.map": "/smart-alphabet/static/js/main.a30bdd89.chunk.js.map",
+    "runtime-main.js": "/smart-alphabet/static/js/runtime-main.2d016cd3.js",
+    "runtime-main.js.map": "/smart-alphabet/static/js/runtime-main.2d016cd3.js.map",
+    "static/css/2.3ab4c7df.chunk.css": "/smart-alphabet/static/css/2.3ab4c7df.chunk.css",
+    "static/js/2.76243e12.chunk.js": "/smart-alphabet/static/js/2.76243e12.chunk.js",
+    "static/js/2.76243e12.chunk.js.map": "/smart-alphabet/static/js/2.76243e12.chunk.js.map",
+    "index.html": "/smart-alphabet/index.html",
+    "precache-manifest.7140936c70079b02eae8d231950fcc09.js": "/smart-alphabet/precache-manifest.7140936c70079b02eae8d231950fcc09.js",
+    "service-worker.js": "/smart-alphabet/service-worker.js",
+    "static/css/2.3ab4c7df.chunk.css.map": "/smart-alphabet/static/css/2.3ab4c7df.chunk.css.map",
+    "static/css/main.fc64a63b.chunk.css.map": "/smart-alphabet/static/css/main.fc64a63b.chunk.css.map",
+    "static/js/2.76243e12.chunk.js.LICENSE.txt": "/smart-alphabet/static/js/2.76243e12.chunk.js.LICENSE.txt",
+    "static/js/main.a30bdd89.chunk.js.LICENSE.txt": "/smart-alphabet/static/js/main.a30bdd89.chunk.js.LICENSE.txt",
+    "static/media/AKlogo.png": "/smart-alphabet/static/media/AKlogo.7b6dd940.png",
+    "static/media/Abt1.png": "/smart-alphabet/static/media/Abt1.1ab001f5.png",
+    "static/media/Abt2.png": "/smart-alphabet/static/media/Abt2.69a4493f.png",
+    "static/media/Abt3.png": "/smart-alphabet/static/media/Abt3.33aae171.png",
+    "static/media/Ayanna.png": "/smart-alphabet/static/media/Ayanna.d9331125.png",
+    "static/media/Ayannawelcome.png": "/smart-alphabet/static/media/Ayannawelcome.07b8c1ae.png",
+    "static/media/B.png": "/smart-alphabet/static/media/B.0e345818.png",
+    "static/media/SEphoto.png": "/smart-alphabet/static/media/SEphoto.05f758cb.png",
+    "static/media/VranaLet.png": "/smart-alphabet/static/media/VranaLet.40c519b9.png",
+    "static/media/sehome.css": "/smart-alphabet/static/media/ss1.c4193b60.png",
+    "static/media/s4.png": "/smart-alphabet/static/media/s4.0f796a62.png",
+    "static/media/s5.png": "/smart-alphabet/static/media/s5.1b8a4eb1.png",
+    "static/media/s6.png": "/smart-alphabet/static/media/s6.a5f4d84a.png",
+    "static/media/video8.mp4": "/smart-alphabet/static/media/video8.a89623a6.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d016cd3.js",
+    "static/css/2.3ab4c7df.chunk.css",
+    "static/js/2.76243e12.chunk.js",
+    "static/css/main.fc64a63b.chunk.css",
+    "static/js/main.a30bdd89.chunk.js"
+  ]
+}
