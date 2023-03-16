@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b54539dd06df154b5a92a6bf7cdf065b",
+    "revision": "ac927e55fbfc751aed84716d0598c601",
     "url": "/smart-alphabet/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/smart-alphabet/static/css/2.3ab4c7df.chunk.css"
   },
   {
-    "revision": "6f483252e101a475cc24",
+    "revision": "00584d68488c12ce9f1d",
     "url": "/smart-alphabet/static/css/main.fc64a63b.chunk.css"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/smart-alphabet/static/js/2.76243e12.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6f483252e101a475cc24",
-    "url": "/smart-alphabet/static/js/main.a30bdd89.chunk.js"
+    "revision": "00584d68488c12ce9f1d",
+    "url": "/smart-alphabet/static/js/main.a9ab0cc5.chunk.js"
   },
   {
     "revision": "4e0e34f265fae8f33b01b27ae29d9d6f",
-    "url": "/smart-alphabet/static/js/main.a30bdd89.chunk.js.LICENSE.txt"
+    "url": "/smart-alphabet/static/js/main.a9ab0cc5.chunk.js.LICENSE.txt"
   },
   {
     "revision": "e3679b3d6bf5b49f47e0",
