@@ -13,7 +13,7 @@ function Pages() {
 
     return (
         <Switch>
-            <Route path="/" exact component={NewSinhalaHodiya} />
+            <Route path="/smart-alphabet/" exact component={NewSinhalaHodiya} />
         </Switch>
     )
 }
